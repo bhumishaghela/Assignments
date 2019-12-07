@@ -35,7 +35,11 @@ if len(a)<=10000 and len(b)<=10000:#checking string lengths<=10000
 else:
     print("Strings are too long")
 
-    
+"""testing sample input
+Enter String1cde
+Enter String2Abc
+Minimum character deletion required to make cde and Abc  anagram is:4"""
+
     
 
             
